@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thanks for visiting my github.
+
+I build stuff 🌱 with js, and it makes my life easier.
+And don't forget that i'm also a 🔩mechanical engineering🔩 student.
 <!--
 **benyou1969/benyou1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
