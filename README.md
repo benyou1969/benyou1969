@@ -1,4 +1,4 @@
-![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-light.gif)
+![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-dark1.gif)
 <!--
 ### Hi there 👋
 
