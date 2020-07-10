@@ -1,5 +1,4 @@
-![About me]('https://github.com/benyou1969/benyou1969/raw/master/mini-dark.gif')
-
+![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-dark.gif)
 <!--
 ### Hi there 👋
 
