@@ -1,6 +1,7 @@
 ![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-dark1.gif)
 <!--
 ### Hi there 👋
+![Benyou's github stats](https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true)
 
 Thanks for visiting my github.
 
