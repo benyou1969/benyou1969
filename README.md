@@ -1,7 +1,8 @@
-![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-dark1.gif)
+![Benyou's github stats](https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true)
+
 <!--
 ### Hi there 👋
-![Benyou's github stats](https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true)
+![About me](https://github.com/benyou1969/benyou1969/raw/master/mini-dark1.gif)
 
 Thanks for visiting my github.
 
